@@ -29,11 +29,11 @@ If you like the template of this homepage, welcome to star and fork Yi Ren's ope
 - *2024.09*: &nbsp;🎉🎉 Celebrate the birth of the homepage.
 
 # 📝 Publications 
-**Speculative Decoding**
+🚀**Speculative Decoding**
 - ``Arxiv`` [Make Some Noise: Unlocking Language Model Parallel Inference Capability through Noisy Training](https://arxiv.org/abs/2406.17404), **Yixuan Wang***, Xianzhen Luo*, Fuxuan Wei, Yijun Liu, Qingfu Zhu, Xuanyu Zhang, Qing Yang, Dongliang Xu, Wanxiang Che.
 - ``Arxiv`` [Turning Trash into Treasure: Accelerating Inference of Large Language Models with Token Recycling](https://arxiv.org/abs/2408.08696), Xianzhen Luo, **Yixuan Wang**, Qingfu Zhu, Zhiming Zhang, Xuanyu Zhang, Qing Yang, Dongliang Xu, Wanxiang Che.
 
-**Grammatical Error Correction**
+🖊**Grammatical Error Correction**
 - ``ACL2024(Findings)`` [Improving Grammatical Error Correction via Contextual Data Augmentation](https://aclanthology.org/2024.findings-acl.647.pdf), **Yixuan Wang**, Baoxin Wang, Yijun Liu, Qingfu Zhu, Dayong Wu, Wanxiang Che.
 [[code]](https://github.com/wyxstriker/CDA4GEC)
 - ``LREC-COLING2024`` [LM-Combiner: A Contextual Rewriting Model for Chinese Grammatical Error Correction](https://aclanthology.org/2024.lrec-main.934.pdf), **Yixuan Wang**, Baoxin Wang, Yijun Liu, Dayong Wu, Wanxiang Che.
