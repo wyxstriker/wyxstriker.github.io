@@ -45,7 +45,7 @@ If you like the template of this homepage, welcome to star and fork Yi Ren's ope
 - **National Scholarship** (2023)
 - Academic Scholarship (First Class 2022)
 - People’s Scholarship (2018, 2019, 2020)
-- **1st place** on Chinese Essay Fluency Evaluation track 1&2&3, CCL2023
+- **1st place** in Chinese Essay Fluency Evaluation, CCL2023
 
 # 📖 Educations
 - *2022.09 - Now*, Master, Harbin Institute of Technology, Harbin.
