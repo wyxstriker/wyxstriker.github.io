@@ -48,7 +48,7 @@ If you like the template of this homepage, welcome to star and fork Yi Ren's ope
 - **1st place** on Chinese Essay Fluency Evaluation track 1&2&3, CCL2023
 
 # 📖 Educations
-- *2019.06 - Now*, Master, Harbin Institute of Technology, Harbin.
+- *2022.09 - Now*, Master, Harbin Institute of Technology, Harbin.
 - *2018.09 - 2022.06*, Undergraduate, Harbin Institute of Technology, Harbin.
 
 # 💻 Internships
