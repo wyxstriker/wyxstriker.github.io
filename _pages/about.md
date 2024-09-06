@@ -35,11 +35,11 @@ If you like the template of this homepage, welcome to star and fork Yi Ren's ope
 
 🖊**Grammatical Error Correction**
 - ``ACL2024(Findings)`` [Improving Grammatical Error Correction via Contextual Data Augmentation](https://aclanthology.org/2024.findings-acl.647.pdf), **Yixuan Wang**, Baoxin Wang, Yijun Liu, Qingfu Zhu, Dayong Wu, Wanxiang Che.
-[[code]](https://github.com/wyxstriker/CDA4GEC)
+[[code](https://github.com/wyxstriker/CDA4GEC)]
 - ``LREC-COLING2024`` [LM-Combiner: A Contextual Rewriting Model for Chinese Grammatical Error Correction](https://aclanthology.org/2024.lrec-main.934.pdf), **Yixuan Wang**, Baoxin Wang, Yijun Liu, Dayong Wu, Wanxiang Che.
-[[code]](https://github.com/wyxstriker/LM-Combiner)
+[[code](https://github.com/wyxstriker/LM-Combiner)]
 - ``COLING2022``(Oral) [Adaptive Unsupervised Self training for Disfluency Detection](https://aclanthology.org/2022.coling-1.632.pdf), Zhongyuan Wang, **Yixuan Wang**, Shaolei Wang, Wanxiang Che.
-[[code]](https://github.com/wyxstriker/ReweightingDisfluency)
+[[code](https://github.com/wyxstriker/ReweightingDisfluency)]
 
 # 🎖 Honors and Awards
 - **National Scholarship** (2023)
