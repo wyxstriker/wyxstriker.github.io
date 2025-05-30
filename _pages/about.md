@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Hello😊, I am a PhD student (expected to begin my studies in Spring 2025) in Research Center for Social Computing and Information Retrieval (SCIR), at Harbin Institute of Technology (HIT, China).
+Hello😊, I am a 1st-year PhD student in Research Center for Social Computing and Interactive Robotics (SCIR), at Harbin Institute of Technology (HIT, China).
 My advisor is Prof. [Wanxiang Che](http://ir.hit.edu.cn/~car/).
 Previously, my primary research interests were centered on deep learning for natural language generation (NLG), such as grammatical error correction. Recently, I have shifted my focus to studying efficient inference for large language models, particularly in the area of speculative decoding.
 
