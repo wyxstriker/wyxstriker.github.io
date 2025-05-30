@@ -53,13 +53,14 @@ If you like the template of this homepage, welcome to star and fork Yi Ren's ope
 [[code](https://github.com/wyxstriker/ReweightingDisfluency)]
 
 # 🎖 Honors and Awards
-- **National Scholarship** (2023)
-- Academic Scholarship (First Class 2022)
+- **The Prize of First Class for the Wu Wenjun Science and Technology Award** (吴文俊人工智能科技进步一等奖), 2024
+- **National Scholarship**, 2023
+- Academic Scholarship, First Class 2022
 - People’s Scholarship (2018, 2019, 2020)
 - **1st place** in Chinese Essay Fluency Evaluation, CCL2023
 
 # 📖 Educations
-- *2022.09 - Now*, Master, Harbin Institute of Technology, Harbin.
+- *2022.09 - Now*, Master-Phd Student, Harbin Institute of Technology, Harbin.
 - *2018.09 - 2022.06*, Undergraduate, Harbin Institute of Technology, Harbin.
 
 # 💻 Internships
