@@ -20,7 +20,7 @@ Hello😊, I am a PhD student (expected to begin my studies in Spring 2025) in R
 My advisor is Prof. [Wanxiang Che](http://ir.hit.edu.cn/~car/).
 Previously, my primary research interests were centered on deep learning for natural language generation (NLG), such as grammatical error correction. Recently, I have shifted my focus to studying efficient inference for large language models, particularly in the area of speculative decoding.
 
-My main research interest is **efficient LLMs**, including pruning, inference acceleration, and synthetic data.
+My main research interest is **efficient LLMs**, including inference acceleration and synthetic data.
 If you are interested in my research or potential collaborations, please feel free to reach out to me at [yixuanwang@ir.hit.edu.cn](yixuanwang@ir.hit.edu.cn).
 
 If you like the template of this homepage, welcome to star and fork Yi Ren's open-sourced template version [AcadHomepage ![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io?style=social)](https://github.com/RayeRen/acad-homepage.github.io).
