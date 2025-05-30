@@ -26,13 +26,23 @@ If you are interested in my research or potential collaborations, please feel fr
 If you like the template of this homepage, welcome to star and fork Yi Ren's open-sourced template version [AcadHomepage ![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io?style=social)](https://github.com/RayeRen/acad-homepage.github.io).
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉🎉 Our [Make-Some-Noise](https://arxiv.org/abs/2406.17404) is accepted by EMNLP 2024..
+- *2025.05*: &nbsp;🎉🎉 Our [Token Recycling](https://arxiv.org/abs/2408.08696) (Main) and [TagEvol]() (Findings) are accepted by ACL 2025.
+- *2024.09*: &nbsp;🎉🎉 Our [Make-Some-Noise](https://arxiv.org/abs/2406.17404) is accepted by EMNLP 2024.
 - *2024.09*: &nbsp;🎉🎉 Celebrate the birth of the homepage.
 
 # 📝 Publications 
 🚀**Speculative Decoding**
 - ``EMNLP2024`` [Make Some Noise: Unlocking Language Model Parallel Inference Capability through Noisy Training](https://arxiv.org/abs/2406.17404), **Yixuan Wang**\*, Xianzhen Luo\*, Fuxuan Wei, Yijun Liu, Qingfu Zhu, Xuanyu Zhang, Qing Yang, Dongliang Xu, Wanxiang Che.
-- ``Arxiv`` [Turning Trash into Treasure: Accelerating Inference of Large Language Models with Token Recycling](https://arxiv.org/abs/2408.08696), Xianzhen Luo, **Yixuan Wang**, Qingfu Zhu, Zhiming Zhang, Xuanyu Zhang, Qing Yang, Dongliang Xu, Wanxiang Che.
+- ``ACL2025`` [Turning Trash into Treasure: Accelerating Inference of Large Language Models with Token Recycling](https://arxiv.org/abs/2408.08696), Xianzhen Luo, **Yixuan Wang**, Qingfu Zhu, Zhiming Zhang, Xuanyu Zhang, Qing Yang, Dongliang Xu, Wanxiang Che.
+- ``Arxiv`` [Think Before You Accept: Semantic Reflective Verification for Faster Speculative Decoding](https://arxiv.org/pdf/2505.18629), **Yixuan Wang**, Yijun Liu, Shiyu Ji, Yuzhuang Xu, Yang Xu, Qingfu Zhu, Wanxiang Che.
+
+⚡️**KV Cache Compression**
+- ``Arxiv`` [Lookahead Q-Cache: Achieving More Consistent KV Cache Eviction via Pseudo Query](https://arxiv.org/pdf/2505.20334), **Yixuan Wang**\*, Shiyu Ji\*, Yijun Liu, Yuzhuang Xu, Yang Xu, Qingfu Zhu, Wanxiang Che.
+
+📊**Data Augmentation**
+- ``ACL2024(Findings)`` [Improving Grammatical Error Correction via Contextual Data Augmentation](https://aclanthology.org/2024.findings-acl.647.pdf), **Yixuan Wang**, Baoxin Wang, Yijun Liu, Qingfu Zhu, Dayong Wu, Wanxiang Che.
+[[code](https://github.com/wyxstriker/CDA4GEC)]
+- ``ACL2025(Findings)`` [Tag-Evol: Achieving Efficient Instruction Evolving via Tag Injection](), **Yixuan Wang**\*, Shiqi Zhou\*, Chuanzhe Guo, Qingfu Zhu.
 
 🖊**Grammatical Error Correction**
 - ``ACL2024(Findings)`` [Improving Grammatical Error Correction via Contextual Data Augmentation](https://aclanthology.org/2024.findings-acl.647.pdf), **Yixuan Wang**, Baoxin Wang, Yijun Liu, Qingfu Zhu, Dayong Wu, Wanxiang Che.
