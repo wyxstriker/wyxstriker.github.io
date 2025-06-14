@@ -34,6 +34,7 @@ If you like the template of this homepage, welcome to star and fork Yi Ren's ope
 🚀**Speculative Decoding**
 - <span class="preprint-tag">Arxiv</span> [Think Before You Accept: Semantic Reflective Verification for Faster Speculative Decoding](https://arxiv.org/pdf/2505.18629), **Yixuan Wang**, Yijun Liu, Shiyu Ji, Yuzhuang Xu, Yang Xu, Qingfu Zhu, Wanxiang Che.
 - <span class="conference-tag">ACL2025</span> [Turning Trash into Treasure: Accelerating Inference of Large Language Models with Token Recycling](https://arxiv.org/abs/2408.08696), Xianzhen Luo, **Yixuan Wang**, Qingfu Zhu, Zhiming Zhang, Xuanyu Zhang, Qing Yang, Dongliang Xu, Wanxiang Che.
+[[code](https://github.com/Luowaterbi/TokenRecycling)]
 - <span class="conference-tag">EMNLP2024</span> [Make Some Noise: Unlocking Language Model Parallel Inference Capability through Noisy Training](https://arxiv.org/abs/2406.17404), **Yixuan Wang**\*, Xianzhen Luo\*, Fuxuan Wei, Yijun Liu, Qingfu Zhu, Xuanyu Zhang, Qing Yang, Dongliang Xu, Wanxiang Che.
 [[code](https://github.com/wyxstriker/MakeSomeNoiseInference)]
 
