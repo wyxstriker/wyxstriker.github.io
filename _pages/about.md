@@ -26,33 +26,32 @@ If you are interested in my research or potential collaborations, please feel fr
 If you like the template of this homepage, welcome to star and fork Yi Ren's open-sourced template version [AcadHomepage ![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io?style=social)](https://github.com/RayeRen/acad-homepage.github.io).
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉🎉 Our [LookAhead Q-Cache](https://arxiv.org/pdf/2505.20334) (Main) is accepted by EMNLP 2025.
 - *2025.05*: &nbsp;🎉🎉 Our [Token Recycling](https://arxiv.org/abs/2408.08696) (Main) and [TagEvol](https://arxiv.org/abs/2505.24165) (Findings) are accepted by ACL 2025.
 - *2024.09*: &nbsp;🎉🎉 Our [Make-Some-Noise](https://arxiv.org/abs/2406.17404) is accepted by EMNLP 2024.
 - *2024.09*: &nbsp;🎉🎉 Celebrate the birth of the homepage.
 
 # 📝 Publications 
 🚀**Speculative Decoding**
-- <span class="preprint-tag">Arxiv</span> [Think Before You Accept: Semantic Reflective Verification for Faster Speculative Decoding](https://arxiv.org/pdf/2505.18629), **Yixuan Wang**, Yijun Liu, Shiyu Ji, Yuzhuang Xu, Yang Xu, Qingfu Zhu, Wanxiang Che.
-- <span class="conference-tag">ACL2025</span> [Turning Trash into Treasure: Accelerating Inference of Large Language Models with Token Recycling](https://arxiv.org/abs/2408.08696), Xianzhen Luo, **Yixuan Wang**, Qingfu Zhu, Zhiming Zhang, Xuanyu Zhang, Qing Yang, Dongliang Xu, Wanxiang Che.
+- ![](https://img.shields.io/badge/2025-Arxiv-orange) [Think Before You Accept: Semantic Reflective Verification for Faster Speculative Decoding](https://arxiv.org/pdf/2505.18629), **Yixuan Wang**, Yijun Liu, Shiyu Ji, Yuzhuang Xu, Yang Xu, Qingfu Zhu, Wanxiang Che.
+- ![](https://img.shields.io/badge/Main-ACL2025-green) [Turning Trash into Treasure: Accelerating Inference of Large Language Models with Token Recycling](https://arxiv.org/abs/2408.08696), Xianzhen Luo, **Yixuan Wang**, Qingfu Zhu, Zhiming Zhang, Xuanyu Zhang, Qing Yang, Dongliang Xu, Wanxiang Che.
 [[code](https://github.com/Luowaterbi/TokenRecycling)]
-- <span class="conference-tag">EMNLP2024</span> [Make Some Noise: Unlocking Language Model Parallel Inference Capability through Noisy Training](https://arxiv.org/abs/2406.17404), **Yixuan Wang**\*, Xianzhen Luo\*, Fuxuan Wei, Yijun Liu, Qingfu Zhu, Xuanyu Zhang, Qing Yang, Dongliang Xu, Wanxiang Che.
+- ![](https://img.shields.io/badge/Main-EMNLP2024-green) [Make Some Noise: Unlocking Language Model Parallel Inference Capability through Noisy Training](https://arxiv.org/abs/2406.17404), **Yixuan Wang**\*, Xianzhen Luo\*, Fuxuan Wei, Yijun Liu, Qingfu Zhu, Xuanyu Zhang, Qing Yang, Dongliang Xu, Wanxiang Che.
 [[code](https://github.com/wyxstriker/MakeSomeNoiseInference)]
 
 ⚡️**KV Cache Compression**
-- <span class="preprint-tag">Arxiv</span> [Lookahead Q-Cache: Achieving More Consistent KV Cache Eviction via Pseudo Query](https://arxiv.org/pdf/2505.20334), **Yixuan Wang**\*, Shiyu Ji\*, Yijun Liu, Yuzhuang Xu, Yang Xu, Qingfu Zhu, Wanxiang Che.
+- ![](https://img.shields.io/badge/Main-EMNLP2025-green) [Lookahead Q-Cache: Achieving More Consistent KV Cache Eviction via Pseudo Query](https://arxiv.org/pdf/2505.20334), **Yixuan Wang**\*, Shiyu Ji\*, Yijun Liu, Yuzhuang Xu, Yang Xu, Qingfu Zhu, Wanxiang Che.
 
 📊**Data Augmentation**
-- <span class="conference-tag">ACL2025(Findings)</span> [Tag-Evol: Achieving Efficient Instruction Evolving via Tag Injection](https://arxiv.org/abs/2505.24165), **Yixuan Wang**\*, Shiqi Zhou\*, Chuanzhe Guo, Qingfu Zhu.
+- ![](https://img.shields.io/badge/Findings-ACL2025-green) [Tag-Evol: Achieving Efficient Instruction Evolving via Tag Injection](https://arxiv.org/abs/2505.24165), **Yixuan Wang**\*, Shiqi Zhou\*, Chuanzhe Guo, Qingfu Zhu.
 [[code](https://github.com/fghccv/TagEvol)]
-- <span class="conference-tag">ACL2024(Findings)</span> [Improving Grammatical Error Correction via Contextual Data Augmentation](https://aclanthology.org/2024.findings-acl.647.pdf), **Yixuan Wang**, Baoxin Wang, Yijun Liu, Qingfu Zhu, Dayong Wu, Wanxiang Che.
+- ![](https://img.shields.io/badge/Findings-ACL2024-green) [Improving Grammatical Error Correction via Contextual Data Augmentation](https://aclanthology.org/2024.findings-acl.647.pdf), **Yixuan Wang**, Baoxin Wang, Yijun Liu, Qingfu Zhu, Dayong Wu, Wanxiang Che.
 [[code](https://github.com/wyxstriker/CDA4GEC)]
 
 🖊**Grammatical Error Correction**
-- <span class="conference-tag">ACL2024(Findings)</span> [Improving Grammatical Error Correction via Contextual Data Augmentation](https://aclanthology.org/2024.findings-acl.647.pdf), **Yixuan Wang**, Baoxin Wang, Yijun Liu, Qingfu Zhu, Dayong Wu, Wanxiang Che.
-[[code](https://github.com/wyxstriker/CDA4GEC)]
-- <span class="conference-tag">LREC-COLING2024</span> [LM-Combiner: A Contextual Rewriting Model for Chinese Grammatical Error Correction](https://aclanthology.org/2024.lrec-main.934.pdf), **Yixuan Wang**, Baoxin Wang, Yijun Liu, Dayong Wu, Wanxiang Che.
+- ![](https://img.shields.io/badge/LREC-COLING2024-green) [LM-Combiner: A Contextual Rewriting Model for Chinese Grammatical Error Correction](https://aclanthology.org/2024.lrec-main.934.pdf), **Yixuan Wang**, Baoxin Wang, Yijun Liu, Dayong Wu, Wanxiang Che.
 [[code](https://github.com/wyxstriker/LM-Combiner)]
-- <span class="conference-tag">COLING2022(Oral)</span> [Adaptive Unsupervised Self training for Disfluency Detection](https://aclanthology.org/2022.coling-1.632.pdf), Zhongyuan Wang, **Yixuan Wang**, Shaolei Wang, Wanxiang Che.
+- ![](https://img.shields.io/badge/Oral-COLING2022-green) [Adaptive Unsupervised Self training for Disfluency Detection](https://aclanthology.org/2022.coling-1.632.pdf), Zhongyuan Wang, **Yixuan Wang**, Shaolei Wang, Wanxiang Che.
 [[code](https://github.com/wyxstriker/ReweightingDisfluency)]
 
 # 🎖 Honors and Awards
