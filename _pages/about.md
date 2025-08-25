@@ -41,6 +41,8 @@ If you like the template of this homepage, welcome to star and fork Yi Ren's ope
 
 ⚡️**KV Cache Compression**
 - ![](https://img.shields.io/badge/EMNLP2025-Main-green) [Lookahead Q-Cache: Achieving More Consistent KV Cache Eviction via Pseudo Query](https://arxiv.org/pdf/2505.20334), **Yixuan Wang**\*, Shiyu Ji\*, Yijun Liu, Yuzhuang Xu, Yang Xu, Qingfu Zhu, Wanxiang Che.
+- ![](https://img.shields.io/badge/Arxiv-2025-orange) [CommonKV: Compressing KV Cache with Cross-layer Parameter Sharing](https://arxiv.org/pdf/2508.16134), **Yixuan Wang**\*, Haoyu Qiao\*, Lujun Li, Qingfu Zhu, Wanxiang Che.
+[[code](https://github.com/rommel2021/CommonKV)]
 
 📊**Data Augmentation**
 - ![](https://img.shields.io/badge/ACL2025-Findings-green) [Tag-Evol: Achieving Efficient Instruction Evolving via Tag Injection](https://arxiv.org/abs/2505.24165), **Yixuan Wang**\*, Shiqi Zhou\*, Chuanzhe Guo, Qingfu Zhu.
