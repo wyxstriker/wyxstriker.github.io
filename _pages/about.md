@@ -46,6 +46,11 @@ If you like the template of this homepage, welcome to star and fork Yi Ren's ope
 - ![](https://img.shields.io/badge/2025-EMNLP_Main-green) [Lookahead Q-Cache: Achieving More Consistent KV Cache Eviction via Pseudo Query](https://arxiv.org/pdf/2505.20334), **Yixuan Wang**\*, Shiyu Ji\*, Yijun Liu, Yuzhuang Xu, Yang Xu, Qingfu Zhu, Wanxiang Che.
 [[code](https://github.com/noforit/Lookahead_Q-Cache)]
 
+👀**Efficient Attention**
+- ![](https://img.shields.io/badge/2025-Arxiv-orange) [ProxyAttn: Guided Sparse Attention via Representative Heads](https://arxiv.org/pdf/2509.24745), **Yixuan Wang**, Huang He, Siqi Bao, Hua Wu, Haifeng Wang, Qingfu Zhu, Wanxiang Che.
+[[code](https://github.com/wyxstriker/ProxyAttn)]
+
+
 📊**Data Augmentation**
 - ![](https://img.shields.io/badge/2025-ACL_Findings-green) [Tag-Evol: Achieving Efficient Instruction Evolving via Tag Injection](https://arxiv.org/abs/2505.24165), **Yixuan Wang**\*, Shiqi Zhou\*, Chuanzhe Guo, Qingfu Zhu.
 [[code](https://github.com/fghccv/TagEvol)]
