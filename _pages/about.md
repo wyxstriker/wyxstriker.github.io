@@ -26,6 +26,7 @@ If you are interested in my research or potential collaborations, please feel fr
 If you like the template of this homepage, welcome to star and fork Yi Ren's open-sourced template version [AcadHomepage ![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io?style=social)](https://github.com/RayeRen/acad-homepage.github.io).
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 Our [Judge Q](https://arxiv.org/pdf/2509.10798) and [CAMERA](https://arxiv.org/pdf/2508.02322) are accepted by AAAI 2026.
 - *2025.08*: &nbsp;🎉🎉 Our [LookAhead Q-Cache](https://arxiv.org/pdf/2505.20334) (Main) is accepted by EMNLP 2025.
 - *2025.05*: &nbsp;🎉🎉 Our [Token Recycling](https://arxiv.org/abs/2408.08696) (Main) and [TagEvol](https://arxiv.org/abs/2505.24165) (Findings) are accepted by ACL 2025.
 - *2024.09*: &nbsp;🎉🎉 Our [Make-Some-Noise](https://arxiv.org/abs/2406.17404) is accepted by EMNLP 2024.
@@ -42,7 +43,7 @@ If you like the template of this homepage, welcome to star and fork Yi Ren's ope
 ⚡️**KV Cache Compression**
 - ![](https://img.shields.io/badge/2025-Arxiv-orange) [CommonKV: Compressing KV Cache with Cross-layer Parameter Sharing](https://arxiv.org/pdf/2508.16134), **Yixuan Wang**\*, Haoyu Qiao\*, Lujun Li, Qingfu Zhu, Wanxiang Che.
 [[code](https://github.com/rommel2021/CommonKV)]
-- ![](https://img.shields.io/badge/2025-Arxiv-orange) [Judge Q: Trainable Queries for Optimized Information Retention in KV Cache Eviction](), Yijun Liu, **Yixuan Wang**, Yuzhuang Xu, Shiyu Ji, Yang Xu, Qingfu Zhu, Wanxiang Che.
+- ![](https://img.shields.io/badge/2026-AAAI-green) [Judge Q: Trainable Queries for Optimized Information Retention in KV Cache Eviction](https://arxiv.org/pdf/2509.10798), Yijun Liu, **Yixuan Wang**, Yuzhuang Xu, Shiyu Ji, Yang Xu, Qingfu Zhu, Wanxiang Che.
 - ![](https://img.shields.io/badge/2025-EMNLP_Main-green) [Lookahead Q-Cache: Achieving More Consistent KV Cache Eviction via Pseudo Query](https://arxiv.org/pdf/2505.20334), **Yixuan Wang**\*, Shiyu Ji\*, Yijun Liu, Yuzhuang Xu, Yang Xu, Qingfu Zhu, Wanxiang Che.
 [[code](https://github.com/noforit/Lookahead_Q-Cache)]
 
