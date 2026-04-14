@@ -26,6 +26,7 @@ If you are interested in my research or potential collaborations, please feel fr
 If you like the template of this homepage, welcome to star and fork Yi Ren's open-sourced template version [AcadHomepage ![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io?style=social)](https://github.com/RayeRen/acad-homepage.github.io).
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉🎉 Our [SeerSC](https://arxiv.org/abs/2511.09345) is accepted by ACL 2026 Findings.
 - *2026.01*: &nbsp;🎉🎉 Our [ProxyAttn](https://arxiv.org/pdf/2509.24745) is accepted by ICLR 2026.
 - *2025.11*: &nbsp;🎉🎉 Our [Judge Q](https://arxiv.org/pdf/2509.10798) and [CAMERA](https://arxiv.org/pdf/2508.02322) are accepted by AAAI 2026.
 - *2025.08*: &nbsp;🎉🎉 Our [LookAhead Q-Cache](https://arxiv.org/pdf/2505.20334) (Main) is accepted by EMNLP 2025.
@@ -52,6 +53,9 @@ If you like the template of this homepage, welcome to star and fork Yi Ren's ope
 - ![](https://img.shields.io/badge/2026-ICLR-green) [ProxyAttn: Guided Sparse Attention via Representative Heads](https://arxiv.org/pdf/2509.24745), **Yixuan Wang**, Huang He, Siqi Bao, Hua Wu, Haifeng Wang, Qingfu Zhu, Wanxiang Che.
 [[code](https://github.com/wyxstriker/ProxyAttn)]
 
+🧩**Applications**
+- ![](https://img.shields.io/badge/2026-ACL_Findings-green) [Seer Self-Consistency: Advance Budget Estimation for Adaptive Test-Time Scaling](https://arxiv.org/abs/2511.09345), Shiyu Ji\*, **Yixuan Wang**\*, Yijun Liu, Qingfu Zhu, Wanxiang Che.
+[[code](https://github.com/noforit/SeerSC)]
 
 📊**Data Augmentation**
 - ![](https://img.shields.io/badge/2025-ACL_Findings-green) [Tag-Evol: Achieving Efficient Instruction Evolving via Tag Injection](https://arxiv.org/abs/2505.24165), **Yixuan Wang**\*, Shiqi Zhou\*, Chuanzhe Guo, Qingfu Zhu.
