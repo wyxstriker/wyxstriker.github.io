@@ -81,8 +81,9 @@ If you like the template of this homepage, welcome to star and fork Yi Ren's ope
 - *2018.09 - 2022.06*, Undergraduate, Harbin Institute of Technology, Harbin.
 
 # 💻 Internships
-- *2025.06 - Present*, Baidu, China.
-- *2023.06 - 2023.09*, Joint Laboratory of HIT and iFLYTEK Research (HFL), China.
+- *Apr 2026 – Present*, Qwen Team, Alibaba
+- *Jun 2025 – Mar 2026*, Baidu
+- *Jun 2023 – Sep 2023*, Joint Laboratory of HIT and iFLYTEK Research (HFL)
 
 # 🌍 Visitors
 <a href="https://info.flagcounter.com/Y8dl"><img src="https://s01.flagcounter.com/map/Y8dl/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
