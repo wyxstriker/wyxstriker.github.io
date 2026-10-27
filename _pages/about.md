@@ -26,6 +26,7 @@ If you are interested in my research or potential collaborations, please feel fr
 If you like the template of this homepage, welcome to star and fork Yi Ren's open-sourced template version [AcadHomepage ![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io?style=social)](https://github.com/RayeRen/acad-homepage.github.io).
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉🎉 Qwen Sparse Attention (QSA), which I contributed to, has been adopted in [Qwen3.8-Flash](https://docs.qwencloud.com/developer-guides/getting-started/latest-model). Check out our [technical report](https://arxiv.org/abs/2608.30320)!
 - *2026.04*: &nbsp;🎉🎉 Our [SeerSC](https://arxiv.org/abs/2511.09345) is accepted by ACL 2026 Findings.
 - *2026.01*: &nbsp;🎉🎉 Our [ProxyAttn](https://arxiv.org/pdf/2509.24745) is accepted by ICLR 2026.
 - *2025.11*: &nbsp;🎉🎉 Our [Judge Q](https://arxiv.org/pdf/2509.10798) and [CAMERA](https://arxiv.org/pdf/2508.02322) are accepted by AAAI 2026.
@@ -50,6 +51,8 @@ If you like the template of this homepage, welcome to star and fork Yi Ren's ope
 [[code](https://github.com/noforit/Lookahead_Q-Cache)]
 
 👀**Efficient Attention**
+- ![](https://img.shields.io/badge/2026-Arxiv-orange) [On the Design of Qwen3.8-Next Architecture: Evaluation, Efficiency, and Training Stability](https://arxiv.org/abs/2608.30320), Zihan Qiu, Zekun Wang, Xiao Li, Yanpeng Li, Yang Xu, **Yixuan Wang**, et al.
+[[code](https://github.com/QwenLM/Qwen3.8-Flash-Next)]
 - ![](https://img.shields.io/badge/2026-ICLR-green) [ProxyAttn: Guided Sparse Attention via Representative Heads](https://arxiv.org/pdf/2509.24745), **Yixuan Wang**, Huang He, Siqi Bao, Hua Wu, Haifeng Wang, Qingfu Zhu, Wanxiang Che.
 [[code](https://github.com/wyxstriker/ProxyAttn)]
 
